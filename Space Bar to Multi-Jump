@@ -2,6 +2,8 @@
 such as a triple jump or more, by simply increasing the "jumpCountMax" variable. A value of 2 corresponds 
 to allowing a double jump, a value of 3 corresponds to allowing a triple jump, and so on.*/
 
+//edit: I changed jumpCountMax from 2 to 10.
+
 using UnityEngine;
 
 public class Player : MonoBehaviour
